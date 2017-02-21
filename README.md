@@ -7,5 +7,8 @@ Document for Settings and deployment Laravel
 
 
 ##atom
+インストール・パッケージ
+git-plus
+
 
 ##Github Desktop
